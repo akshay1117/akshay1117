@@ -1,3 +1,4 @@
+
 <!-- 
   GitHub Profile README — "Wow Profile" template
 -->
@@ -76,3 +77,49 @@ Dart        ██████████                               25%
 TypeScript  ████████                                 20%
 Swift       ██████                                   15%
 C++         ████                                     10%
+```
+
+<br/>
+
+## `> Featured Repositories`
+
+<div align="center">
+
+<a href="https://github.com/akshay1117/Espada">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshay1117&repo=Espada&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=22c55e&border_color=2d2b55&border_radius=10" />
+</a>
+<a href="https://github.com/akshay1117/DIGGS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshay1117&repo=DIGGS&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=22c55e&border_color=2d2b55&border_radius=10" />
+</a>
+<a href="https://github.com/akshay1117/zoro">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshay1117&repo=zoro&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=22c55e&border_color=2d2b55&border_radius=10" />
+</a>
+
+</div>
+
+<br/>
+
+## `> Activity & Streak`
+
+<div align="center">
+
+<!-- GitHub Contribution Grid (Green Squares) -->
+<img src="https://ghchart.rshah.org/22c55e/akshay1117" alt="akshay1117's Github chart" />
+
+<br/><br/>
+
+<!-- GitHub Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay1117&theme=dark&background=0D1117&ring=22C55E&fire=A78BFA&currStreakLabel=22C55E&border=2D2B55&hide_border=false" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/★_Creative._Bold._Different.-0f2a1a?style=for-the-badge&labelColor=0f2a1a&color=22c55e" />
+
+<br/><br/>
+
+<a href="https://github.com/akshay1117"><img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/akshay1117"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=38bdf8" /></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=a78bfa" /></a>
+
+</div>
+```
