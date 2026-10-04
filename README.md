@@ -25,11 +25,11 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/TypeScript-1a1030?style=for-the-badge&logo=typescript&logoColor=3178c6&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Python-0b2530?style=for-the-badge&logo=python&logoColor=38bdf8&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Dart-0f2a1a?style=for-the-badge&logo=dart&logoColor=0175C2&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Java-0b2530?style=for-the-badge&logo=java&logoColor=007396&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/HTML5-1a1030?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Dart-0f2a1a?style=for-the-badge&logo=dart&logoColor=0175C2&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/TypeScript-1a1030?style=for-the-badge&logo=typescript&logoColor=3178c6&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Swift-0f2a1a?style=for-the-badge&logo=swift&logoColor=F05138&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/C++-0b2530?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=0d1117" />
 
 <br/><br/>
 
@@ -62,17 +62,17 @@
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-40%25-3178c6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117)
-![Python](https://img.shields.io/badge/Python-25%25-38bdf8?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)
-![Dart](https://img.shields.io/badge/Dart-20%25-0175C2?style=flat-square&logo=dart&logoColor=white&labelColor=0d1117)
-![Java](https://img.shields.io/badge/Java-10%25-007396?style=flat-square&logo=java&logoColor=white&labelColor=0d1117)
-![HTML5](https://img.shields.io/badge/HTML5-5%25-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0d1117)
+![Java](https://img.shields.io/badge/Java-30%25-007396?style=flat-square&logo=java&logoColor=white&labelColor=0d1117)
+![Dart](https://img.shields.io/badge/Dart-25%25-0175C2?style=flat-square&logo=dart&logoColor=white&labelColor=0d1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-20%25-3178c6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117)
+![Swift](https://img.shields.io/badge/Swift-15%25-F05138?style=flat-square&logo=swift&logoColor=white&labelColor=0d1117)
+![C++](https://img.shields.io/badge/C++-10%25-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=0d1117)
 
 </div>
 
 ```text
-TypeScript  ████████████████                         40%
-Python      ██████████                               25%
-Dart        ████████                                 20%
-Java        ████                                     10%
-HTML5       ██                                        5%
+Java        ████████████                             30%
+Dart        ██████████                               25%
+TypeScript  ████████                                 20%
+Swift       ██████                                   15%
+C++         ████                                     10%
